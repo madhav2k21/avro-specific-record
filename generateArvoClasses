@@ -1,0 +1,2 @@
+#To generate Avro class from avro schema
+java -jar avro-tools-1.8.2.jar compile schema myMessages.avsc . 
